@@ -1,0 +1,8 @@
+[
+    {
+        "uri": <LIKE PLAYLIST URI HERE>, "like": true
+    },
+    {
+        "uri": <DISLIKE PLAYLIST URI HERE>, "like": false
+    }
+]
